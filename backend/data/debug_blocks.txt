@@ -1,0 +1,444 @@
+================================================================================
+ |  | 
+para intro | pages [3] | 298 words
+Introduction In order to prevent banks and other financial institutions from being used as a channel for Money Laundering (ML) / Terrorist Financing (TF) and to ensure the integrity and stability of the financial system, efforts are continuously being made both internationally and nationally, by way ...
+================================================================================
+ | Chapter I – Preliminary | A. Short Title and Commencement.
+para 1 | pages [4] | 19 words
+1. These Directions shall be called the Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025. ...
+================================================================================
+ | Chapter I – Preliminary | A. Short Title and Commencement.
+para 2 | pages [4] | 20 words
+2. These directions shall come into effect on the day they are placed on the official website of the RBI. ...
+================================================================================
+ | Chapter I – Preliminary | B. Applicability
+para 3 | pages [4] | 69 words
+3. These directions shall be applicable to Commercial Banks (hereinafter collectively referred to as 'banks' and individually as a 'bank'). For the purpose of these Directions, ‘Commercial Banks’ mean banking companies (other than Small Finance Banks, Payment Banks, and Local Area Banks), correspond ...
+================================================================================
+ | Chapter I – Preliminary | B. Applicability
+para 4 | pages [4] | 164 words
+4. These directions shall also apply to those branches and majority-owned subsidiaries of the b ank which are located abroad, to the extent they are not contradictory to the local laws in the host country, provided that: (1) where applicable laws and regulations prohibit implementation of these guid ...
+================================================================================
+ | Chapter I – Preliminary | C. Definitions
+para 5 | pages [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15] | 3419 words
+5. In these Directions, unless the context otherwise requires, the following meanings are assigned to the terms herein: (1) Terms bearing meaning assigned in terms of the Prevention of Money-Laundering Act, 2002, and the Prevention of Money-Laundering (Maintenance of Records) Rules, 2005: (i) ‘Aadha ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 6 | pages [16] | 213 words
+6. Know Your Customer (KYC) Policy: (1) The bank shall have a KYC policy. The Board of Directors of the bank, or any committee to which the Board has delegated power, shall duly approve the KYC policy. (2) The KYC policy shall include following four key elements: (i) Customer Acceptance Policy; (ii) ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 7 | pages [16, 17] | 27 words
+7. The specific responsibilities and actions stipulated for the Board or its relevant committees in paragraph 6 above are elaborated upon in greater detail within the Directions. ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 8 | pages [17] | 92 words
+8. In terms of PML Rules, groups shall implement group-wide policies for the purpose of discharging obligations under the provisions of Chapter IV of the PML Act, 2002. (15 of 2003). Accordingly, every bank which is part of a group, shall implement group-wide programmes against money laundering and  ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 9 | pages [17] | 74 words
+9. Bank’s policy framework shall seek to ensure compliance with PML Act / Rules, including regulatory instructions in this regard and shall provide a bulwark against threats arising from money laundering, terrorist financing, proliferation financing and other related risks. While ensuring compliance ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 10 | pages [17, 18] | 230 words
+10. Money Laundering and Terrorist Financing Risk Assessment by the bank: (1) The bank shall carry out ‘Money Laundering (ML) and Terrorist Financing (TF) Risk Assessment’ exercises periodically to identify, assess and take effective measures to mitigate its money laundering and terrorist financing  ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 11 | pages [18] | 87 words
+11. The bank shall apply a Risk Based Approach (RBA) for mitigation and management of the risks (identified on its own or through national risk assessment) and shall have policies, controls and procedures 2approved by the Board or committee of the Board to which powers have been delegated in this re ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 12 | pages [18] | 85 words
+12. Compliance of KYC policy: The bank shall ensure compliance with KYC Policy through: (1) specifying as to who constitute ‘Senior Management’ for the purpose of KYC compliance. (2) allocation of responsibility for effective implementation of policies and procedures. (3) independent evaluation of t ...
+================================================================================
+ | Chapter II – General | A. Board of Directors / Policies related guidelines:
+para 13 | pages [18] | 19 words
+13. The bank shall ensure that it does not outsource the decision-making functions of determining compliance with KYC norms. ...
+================================================================================
+ | Chapter II – General | B. Other General Guidelines:
+para 14 | pages [18, 19] | 68 words
+14. Designated Director: (1) A ‘Designated Director’ is a Board-nominated person whom the bank designates to ensure overall compliance with the obligations imposed under Chapter IV of the PML Act and the Rules. (2) The bank shall communicate the name, designation, address and the contact details of  ...
+================================================================================
+ | Chapter II – General | B. Other General Guidelines:
+para 15 | pages [19] | 48 words
+15. Principal Officer: (1) The Principal Officer shall be responsible for ensuring compliance, monitoring transactions, and sharing and reporting information as required under the law / regulations. (2) The bank shall communicate the name, designation, address and contact details of the Principal Of ...
+================================================================================
+ | Chapter III – Customer Acceptance Policy | 
+para 16 | pages [20] | 9 words
+16. The bank shall frame a Customer Acceptance Policy. ...
+================================================================================
+ | Chapter III – Customer Acceptance Policy | 
+para 17 | pages [20, 21] | 342 words
+17. Without prejudice to the generality of the aspect that Customer Acceptance Policy may contain, the bank shall: (1) not open any account in an anonymous or fictitious / benami name. (2) open no account where it is unable to apply appropriate CDD measures, either due to non- cooperation of the cus ...
+================================================================================
+ | Chapter III – Customer Acceptance Policy | 
+para 18 | pages [21] | 64 words
+18. The Customer Acceptance Policy shall not result in denial of a banking / financial facility to members of the general public, especially those who are financially or socially disadvantaged, including the Persons with Disabilities (PwDs). The bank shall not reject an application for onboarding or ...
+================================================================================
+ | Chapter III – Customer Acceptance Policy | 
+para 19 | pages [21] | 40 words
+19. Where the bank forms a suspicion of money laundering or terrorist financing, and it reasonably believes that performing the CDD process will tip-off the customer, it shall not pursue the CDD process, and instead file an STR with FIU-IND. ...
+================================================================================
+ | Chapter IV – Risk Management | 
+para 20 | pages [22] | 239 words
+20. For risk management, the bank shall have a risk -based approach which includes the following: (1) The bank shall categorise customers into low, medium, and high-risk categories, based on its assessment and risk perception. (2) The bank may lay down broad principles for the risk-categorisation of ...
+================================================================================
+ | Chapter V – Customer Identification Procedure (CIP) | 
+para 21 | pages [23] | 173 words
+21. The bank shall undertake identification of customers in the following cases: (1) Commencement of an account-based relationship with the customer. (2) Carrying out any international money transfer operations for a person who is not an account holder of the bank. (3) When there is a doubt about th ...
+================================================================================
+ | Chapter V – Customer Identification Procedure (CIP) | 
+para 22 | pages [23, 24] | 221 words
+22. For the purpose of verifying the identity of customers at the time of commencement of an account-based relationship or while carrying out an occasional transaction of an amount equal to or exceeding ₹50,000, whether conducted as a single transaction or several transactions that appear to be conn ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | A. CDD Procedure in case of Individuals
+para 23 | pages [25, 26, 27] | 878 words
+23. For undertaking CDD, the bank shall obtain the following from an individual while establishing an account-based relationship or while dealing with the individual who is a beneficial owner, authorised signatory or the power of attorney holder related to any legal entity: (1) the Aadhaar number wh ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | A. CDD Procedure in case of Individuals
+para 24 | pages [27, 28, 29] | 839 words
+24. Digital KYC Process: (1) The bank shall develop an application for digital KYC process and make it available at customer touch points for undertaking KYC of its customers and shall undertake the KYC process only through this authenticated application. (2) The bank shall control the access to the ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | A. CDD Procedure in case of Individuals
+para 25 | pages [29, 30] | 393 words
+25. Accounts opened using Aadhaar OTP based e-KYC, in non-face-to-face mode, are subject to the following conditions: (1) The Customer shall give specific consent for the authentication through OTP. (2) As a risk-mitigating measure for such accounts, the bank shall ensure that it sends transaction a ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | A. CDD Procedure in case of Individuals
+para 26 | pages [30, 31] | 112 words
+26. The bank may undertake V-CIP to carry out: (1) CDD in case of new customer onboarding for individual customers, proprietor in case of proprietorship firm, authorised signatories and Beneficial Owners (BOs) in case of Legal Entity (LE) customers. Provided that in case of CDD of a proprietorship f ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | A. CDD Procedure in case of Individuals
+para 27 | pages [31, 32, 33, 34] | 1379 words
+27. The bank opting to undertake V -CIP, shall adhere to the following minimum standards: (1) V-CIP Infrastructure (i) The bank shall have complied with the RBI guidelines on minimum baseline cyber security and resilience framework for banks, as updated from time to time as well as other general gui ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | A. CDD Procedure in case of Individuals
+para 28 | pages [35, 36] | 509 words
+28. Notwithstanding anything contained in paragraph 23 and as an alternative thereto, in case an individual who desires to open a bank account, the bank shall open a ‘Small Account’, which entails the following limitations: (1) the aggregate of all credits in a financial year does not exceed Rupees  ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | A. CDD Procedure in case of Individuals
+para 29 | pages [36] | 54 words
+29. KYC verification once done by one branch / office of the bank shall be valid for transfer of the account to any other branch / office of the same bank, provided the bank has already completed the full KYC verification for the concerned account and the same is not due for periodic updation. ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | B. CDD Measures for Sole Proprietary firms
+para 30 | pages [36] | 24 words
+30. For opening an account in the name of a sole proprietary firm, the bank shall carry out the CDD of the individual (proprietor). ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | B. CDD Measures for Sole Proprietary firms
+para 31 | pages [36, 37] | 169 words
+31. In addition to the above, the bank shall also obtain any two of the following documents or the equivalent e-documents thereof as proof of business / activity in the name of the proprietary firm: (1) Registration certificate including Udyam Registration Certificate (URC) issued by the Government. ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | B. CDD Measures for Sole Proprietary firms
+para 32 | pages [37] | 83 words
+32. In cases where the bank is satisfied that it is not possible to furnish two such documents, the bank may, at its discretion, accept only one of those documents as proof of business / activity. Provided that the bank undertakes contact point verification and collect s such other information and c ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | C. CDD Measures for Legal Entities
+para 33 | pages [37] | 122 words
+33. For opening an account of a company , the bank shall obtain certified copies of each of the following documents or the equivalent e-documents thereof: (1) Certificate of incorporation (2) Memorandum and Articles of Association (3) PAN of the company (4) A resolution from the Board of Directors a ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | C. CDD Measures for Legal Entities
+para 34 | pages [37, 38] | 93 words
+34. For opening an account of a partnership firm , the bank shall obtain the certified copies of each of the following documents or the equivalent e-documents thereof: (1) Registration certificate (2) Partnership deed (3) PAN of the partnership firm (4) Documents, as specified in paragraph 23, relat ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | C. CDD Measures for Legal Entities
+para 35 | pages [38] | 122 words
+35. For opening an account of a trust, the bank shall obtain the certified copies of each of the following documents or the equivalent e-documents thereof: (1) Registration certificate (2) Trust deed (3) PAN or Form No.60 of the trust (4) Documents, as specified in paragraph 23, relating to benefici ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | C. CDD Measures for Legal Entities
+para 36 | pages [38, 39] | 145 words
+36. For opening an account of an unincorporated association or a body of individuals, the bank shall obtain the certified copies of each of the following documents or the equivalent e-documents thereof: (1) Resolution of the managing body of such association or body of individuals (2) PAN or Form No ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | C. CDD Measures for Legal Entities
+para 37 | pages [39] | 164 words
+37. For opening account of a customer who is a juridical person (not specifically covered in the earlier part) such as societies, universities and local bodies like village panchayats, etc., or who purports to act on behalf of such juridical person or individual or trust, the bank shall obtain and v ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | D. Identification of Beneficial Owner
+para 38 | pages [39, 40] | 194 words
+38. For opening an account of a Legal Person who is not a natural person, the bank shall identify the beneficial owner(s) and shall undertake all reasonable steps in terms of sub - rule (3) of Rule 9 of the Rules to verify their identity, keeping in view the following: (1) Where the customer or the  ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | E. On-going Due Diligence
+para 39 | pages [40] | 34 words
+39. The bank shall undertake ongoing due diligence of customers to ensure that their transactions are consistent with their knowledge about the customers, customers’ business and risk profile, the source of funds / wealth. ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | E. On-going Due Diligence
+para 40 | pages [40] | 126 words
+40. Without prejudice to the generality of factors that call for close monitoring, the bank shall necessarily monitor the following types of transactions: (1) Large and complex transactions including RTGS transactions, and those with unusual patterns, inconsistent with the normal and expected activi ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | E. On-going Due Diligence
+para 41 | pages [40, 41] | 146 words
+41. The bank shall align the extent of monitoring with the risk category of the customer. (1) The bank shall put in place a system of periodic review of risk categorisation of accounts, with such periodicity being at least once in every six months, and shall establish the need for applying enhanced  ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | E. On-going Due Diligence
+para 42 | pages [41, 42, 43, 44, 45] | 1600 words
+42. Updation / Periodic Updation of KYC (1) The bank shall adopt a risk-based approach for periodic updation of KYC ensuring that it keeps the information or data collected under CDD is kept up -to-date and relevant, particularly where there is high risk. However, the bank shall carry out periodic u ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | E. On-going Due Diligence
+para 43 | pages [45] | 283 words
+43. In case of existing customers, the bank shall obtain the PAN or equivalent e-document thereof or Form No. 60, by such date which the Central Government may notify, failing which the bank shall temporarily cease operations in the account until the customer submits the PAN or equivalent e-document ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | F.1 Enhanced Due Diligence
+para 44 | pages [45, 46] | 343 words
+44. Enhanced Due Diligence (EDD) for non- face-to-face customer onboarding (other than customer onboarding in terms of paragraph 25): Non -face-to-face onboarding facilitates the bank to establish a relationship with the customer without meeting the customer physically or through V -CIP. Such non-fa ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | F.1 Enhanced Due Diligence
+para 45 | pages [46, 47] | 204 words
+45. Accounts of Politically Exposed Persons (PEPs) (1) The bank shall have the option of establishing a relationship with PEPs (whether as customer or beneficial owner) provided that, apart from performing normal customer due diligence: (i) the bank has in place appropriate risk management systems t ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | F.1 Enhanced Due Diligence
+para 46 | pages [47, 48] | 206 words
+46. Client accounts opened by professional intermediaries: The bank shall ensure while opening client accounts through professional intermediaries, that: (1) The bank shall identify clients when a professional intermediary opens a client account on behalf of a single client. (2) The bank shall have  ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | F.2 Simplified Due Diligence
+para 47 | pages [48] | 62 words
+47. Simplified norms for Self Help Groups (SHGs): (1) The bank shall not require CDD of all the members of an SHG while opening the savings bank account of the SHG. (2) The CDD of all the office bearers shall suffice. (3) The bank may undertake CDD of all the members of an SHG at the time of credit  ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | F.2 Simplified Due Diligence
+para 48 | pages [48, 49] | 192 words
+48. Procedure to be followed by the bank while opening accounts of foreign students (1) The bank shall, at its option, open a Non-Resident Ordinary (NRO) bank account of a foreign student on the basis of his / her passport (with visa and immigration endorsement) bearing the proof of identity and add ...
+================================================================================
+ | Chapter VI – Customer Due Diligence (CDD) Procedure | F.2 Simplified Due Diligence
+para 49 | pages [49, 50, 51] | 519 words
+49. Simplified KYC norms for Foreign Portfolio Investors (FPIs): (1) Accounts of FPIs which are eligible / registered as per SEBI guidelines, for the purpose of investment under Portfolio Investment Scheme (PIS), shall be opened by accepting KYC documents as detailed in (2) below , subject to Income ...
+================================================================================
+ | Chapter VII – Record Management | 
+para 50 | pages [52, 53] | 293 words
+50. The bank shall take the following steps regarding maintenance, preservation and reporting of customer information, with reference to provisions of PML Act and Rules. The bank shall, (1) maintain all necessary records of transactions between the bank and the customer, both domestic and internatio ...
+================================================================================
+ | Chapter VII – Record Management | 
+para 51 | pages [53] | 78 words
+51. The bank shall ensure that in case of customers who are non-profit organisations, the bank registers details of such customers on the DARPAN Portal of NITI Aayog. If they are not registered, the bank shall register the details on the DARPAN Portal. The bank shall also maintain such registration  ...
+================================================================================
+ | Chapter VIII – Reporting Requirements to Financial Intelligence Unit – India | 
+para 52 | pages [54] | 101 words
+52. The bank shall furnish to the Director, Financial Intelligence Unit -India (FIU-IND), the information referred to in Rule 3 of the PML (Maintenance of Records) Rules, 2005 in accordance with Rule 7 thereof. Explanation: In terms of Third Amendment Rules notified September 22, 2015 regarding amen ...
+================================================================================
+ | Chapter VIII – Reporting Requirements to Financial Intelligence Unit – India | 
+para 53 | pages [54] | 146 words
+53. The bank shall take note of the reporting formats and comprehensive reporting format guide, prescribed / released by FIU-IND and Report Generation Utility and Report Validation Utility developed to assist reporting entities in the preparation of prescribed reports. The bank which is yet to insta ...
+================================================================================
+ | Chapter VIII – Reporting Requirements to Financial Intelligence Unit – India | 
+para 54 | pages [54] | 139 words
+54. When furnishing information to the Director, FIU -IND, a delay of each day in not reporting a transaction or delay of each day in rectifying a mis-represented transaction beyond the time limit as specified in the Rule shall constitute as a separate violation. The bank shall not put any restricti ...
+================================================================================
+ | Chapter VIII – Reporting Requirements to Financial Intelligence Unit – India | 
+para 55 | pages [54, 55, 56] | 33 words
+55. To identify and report suspicious transactions effectively, the bank shall implement robust software that generates alerts when transactions are inconsistent with a customer's risk categorisation and updated profile. Communications from International Agencies ...
+================================================================================
+ | Chapter IX – Requirements/obligations under International Agreements - | 
+para 56 | pages [56, 57] | 358 words
+56. Obligations under the Unlawful Activities (Prevention) (UAPA) Act, 1967: (1) The bank shall ensure that in terms of section 51A of the Unlawful Activities (Prevention) (UAPA) Act, 1967 and amendments thereto, it does not have any account in the name of individuals / entities appearing in the lis ...
+================================================================================
+ | Chapter IX – Requirements/obligations under International Agreements - | 
+para 57 | pages [57, 58] | 448 words
+57. Obligations under Weapons of Mass Destruction (WMD) and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005 (WMD Act, 2005): (1) The bank shall ensure meticulous compliance with the ‘ Procedure for Implementation of Section 12A of the Weapons of Mass Destruction (WMD) and their ...
+================================================================================
+ | Chapter IX – Requirements/obligations under International Agreements - | 
+para 58 | pages [58] | 69 words
+58. The bank shall verify every day, the ‘UNSCR 1718 Sanctions List of Designated Individuals and Entities‘, as available at https://www.mea.gov.in/Implementation -of-UNSC-Sanctions-DPRK.htm, to t ake into account any modifications to the list in terms of additions, deletions or other changes and al ...
+================================================================================
+ | Chapter IX – Requirements/obligations under International Agreements - | 
+para 59 | pages [58] | 56 words
+59. In addition to the above, the bank shall take into account: (1) other UNSCRs and (2) lists in the first schedule and the fourth schedule of UAPA, 1967 and any amendments to the same for compliance with the Government orders on implementation of section 51A of the UAPA and section 12A of the WMD  ...
+================================================================================
+ | Chapter IX – Requirements/obligations under International Agreements - | 
+para 60 | pages [58] | 32 words
+60. The bank shall undertake countermeasures when called upon so to do by any international or intergovernmental organisation of which India is a member and which is accepted by the Central Government. ...
+================================================================================
+ | Chapter IX – Requirements/obligations under International Agreements - | 
+para 61 | pages [58, 59] | 212 words
+61. Jurisdictions that do not or insufficiently apply the FATF Recommendations: (1) The bank shall consider the FATF Statements circulated by the RBI from time to time, and publicly available information, for identifying countries, which do not or insufficiently apply the FATF Recommendations. The b ...
+================================================================================
+ | Chapter IX – Requirements/obligations under International Agreements - | 
+para 62 | pages [59] | 23 words
+62. The bank is encouraged to leverage latest technological innovations and tools for effective implementation of name screening to meet the sanctions requirements. ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 63 | pages [60] | 172 words
+63. Secrecy Obligations and Sharing of Information: (1) The bank shall maintain secrecy regarding the customer information that arises out of the contractual relationship between the bank and the customer. (2) The bank shall treat i nformation collected from customers for the purpose of opening of a ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 64 | pages [60] | 66 words
+64. Compliance with the provisions of Foreign Contribution (Regulation) Act, 2010: The bank shall ensure adherence to the provisions of Foreign Contribution (Regulation) Act, 2010, and Rules made thereunder. Further, the bank shall also ensure meticulous compliance with any instructions / communicat ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 65 | pages [60, 61, 62, 63] | 825 words
+65. CDD Procedure and sharing KYC information with Central KYC Records Registry (CKYCR) (1) Government of India has authorised the Central Registry of Securitisation Asset Reconstruction and Security Interest of India (CERSAI), to act as, and to perform the functions of the CKYCR vide Gazette Notifi ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 66 | pages [63] | 304 words
+66. Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standards (CRS): Under FATCA and CRS, the bank shall adhere to the provisions of Income Tax Rules 114F, 114G and 114H and determine whether they are a Reporting Financial Institution as defined in Income  ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 67 | pages [64] | 39 words
+67. Period for presenting payment instruments: The bank shall not make payment of cheques / drafts / pay orders/ banker’s cheques, if the customer present s them beyond the period of three months from the date of such instruments. ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 68 | pages [64] | 134 words
+68. Operation of Bank Accounts and Money Mules: The bank shall strictly adhere to the instructions on opening of accounts and monitoring of transactions, to minimise the operations of ‘Money Mules ’ that are used to launder the proceeds of fraud schemes (e.g., phishing and identity theft) by crimina ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 69 | pages [64] | 65 words
+69. Collection of Account Payee Cheques: The bank shall not collect account payee cheques for any person other than the payee constituent. The bank shall, at its option, collect account payee cheques drawn for an amount not exceeding ₹ 50,000 to the account of its customers who are co-operative cred ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 70 | pages [64] | 24 words
+70. The bank shall allot Unique Customer Identification Code (UCIC) while entering into new relationships with individual customers as also the existing individual customers. ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 71 | pages [64] | 44 words
+71. The bank shall, at their option, not issue UCIC to all walk-in / occasional customers provided it is ensured that there is adequate mechanism to identify such walk -in customers who have frequent transactions with them and ensure that they are allotted UCIC. ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 72 | pages [64, 65] | 97 words
+72. Introduction of New Technologies: The bank shall identify and assess the ML / TF risks that may arise in relation to the development of new products and new business practices, including new delivery mechanisms, and the use of new or developing technologies for both new and existing products. Fu ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 73 | pages [65, 66] | 384 words
+73. Correspondent Banking: The bank shall have a policy approved by its Boards, or by a committee headed by the Chairman / CEO / MD, to lay down parameters for approving cross -border correspondent banking and other similar relationships. In addition to performing normal CDD measures, such relations ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 74 | pages [66, 67, 68, 69, 70] | 1431 words
+74. Wire Transfer (1) Information requirements for wire transfers for the purpose of this Direction: (i) All cross-border wire transfers shall be accompanied by accurate, complete, and meaningful originator and beneficiary information as mentioned below: (a) name of the originator; (b) the originato ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 75 | pages [70] | 101 words
+75. Issue and Payment of Demand Drafts, etc.: (1) Any remittance of funds by way of demand draft, mail / telegraphic transfer / NEFT / IMPS or any other mode and issue of trave llers’ cheques for value of ₹50,000 and above shall be effected by debit to the customer’s account or against cheques and n ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 76 | pages [70, 71] | 62 words
+76. Quoting of PAN: PAN or equivalent e- document thereof of customers shall be obtained and verified while undertaking transactions as per the provisions of Income Tax Rule 114B applicable to banks, as amended from time to time, which includes opening of accounts with banks, etc. Form 60 shall be o ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 77 | pages [71] | 197 words
+77. Selling Third party products : The bank acting as agent while selling third party products as per regulations in force from time to time shall comply with the following aspects for the purpose of these directions: (1) the identity and address of the walk -in customer shall be verified for transa ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 78 | pages [71] | 75 words
+78. At-par cheque facility availed by co-operative banks (1) The ‘at par’ cheque facility offered by the bank to co- operative banks shall be monitored and such arrangements be reviewed to assess the risks including credit risk and reputational risk arising therefrom. (2) The right to verify the rec ...
+================================================================================
+ | Chapter X – Other Instructions | 
+para 79 | pages [71, 72] | 211 words
+79. Hiring of Employees and Employee training: (1) The bank shall put in place an a dequate screening mechanism, including Know Your Employee / Staff policy, as an integral part of its personnel recruitment / hiring process. (2) The bank shall endeavour to ensure that the staff dealing with / being  ...
+================================================================================
+ | Chapter XI – Repeal and Other Provisions | A. Repeal and saving
+para 80 | pages [73] | 53 words
+80. With the issue of these Directions, the existing Directions, instructions, and guidelines relating to Know Your Customer as applicable to Commercial Banks stand repealed, as communicated vide circular DOR.RRC.REC.302/33-01-010/2025-26 dated November 28, 2025 . The Directions, instructions, and g ...
+================================================================================
+ | Chapter XI – Repeal and Other Provisions | A. Repeal and saving
+para 81 | pages [73] | 146 words
+81. Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed lists shall be deemed as g ...
+================================================================================
+ | Chapter XI – Repeal and Other Provisions | B. Application of other laws not barred
+para 82 | pages [73] | 32 words
+82. The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations, or directions, for the time being in force. ...
+================================================================================
+ | Chapter XI – Repeal and Other Provisions | C. Interpretation
+para 83 | pages [73, 74] | 71 words
+83. For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the RBI may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein ...
+================================================================================
+Annex – I |  | 
+para intro | pages [75] | 248 words
+File No. 14014/01/2019/CFT Government of India Ministry of Home Affairs CTCR Division North Block, New Delhi. Dated: the 2nd February, 2021 (Amended vide corrigendum dated March 15, 2023) (Amended vide corrigendum dated August 29, 2023) (Amended vide corrigendum dated April 22, 2024) ORDER Subject:  ...
+================================================================================
+Annex – I |  | 
+para 2 | pages [75, 76] | 31 words
+2. In order to ensure expeditious and effective implementation of the provisions of Section 51A, a revised procedure is outlined below in supersession of earlier orders and guidelines on the subject: ...
+================================================================================
+Annex – I |  | 
+para 3 | pages [76] | 257 words
+3. Appointment and communication details of the UAPA Nodal Officers : 3.1 The Joint Secretary (CTCR), Ministry of Home Affairs would be the Central [designated] Nodal Officer for the UAPA [Telephone Number: 011 -24010033, 011-24010034, 011-230923465 (Fax), email address: jsctcr-mha@gov.in]. 3.2 The  ...
+================================================================================
+Annex – I |  | 
+para 4 | pages [76, 77] | 231 words
+4. Communication of the list of designated individuals/entities : 4.1 The Ministry of External Affairs shall update the list of individuals and entities subject to the UN sanction measures whenever changes are made in the lists by the UNSC 1267 Committee pertaining to Al Qaida and Da’esh and the UNS ...
+================================================================================
+Annex – I |  | 
+para 5 | pages [77, 78, 79] | 683 words
+5. Regarding funds, financial assets or economic resources or related services held in the form of bank accounts, stocks or Insurance policies etc. 5.1 The Financial Regulators will issue necessary guidelines to banks, stock exchanges/depositories, intermediaries regulated by the SEBI and insurance  ...
+================================================================================
+Annex – I |  | 
+para 6 | pages [79, 80] | 489 words
+6. Regarding financial assets or economic resources of the nature of immovable properties: 6.1 The Central [designated] Nodal Officer for the UAPA shall electronically forward the designated list to the UAPA Nodal Officers of all States and UTs with request to have the names of the designated indivi ...
+================================================================================
+Annex – I |  | 
+para 7 | pages [80, 81, 82, 83] | 1088 words
+7. Regarding the real -estate agents, dealers of precious metals/stones (DPMS) and other Designated Non-Financial Businesses and Professions (DNFBPs) and any other person: (i) The Designated Non- Financial Businesses and Professions (DNFBPs), inter alia, include casinos, real estate agents, dealers  ...
+================================================================================
+Annex – I |  | 
+para 8 | pages [83, 84] | 314 words
+8. Regarding implementation of requests received from foreign countries under U.N. Security Council Resolution 1373 of 2001: 8.1 The U.N. Security Council Resolution No.1373 of 2001 obligates countries to freeze without delay the funds or other assets of persons who commit, or attempt to commit, ter ...
+================================================================================
+Annex – I |  | 
+para 9 | pages [84] | 47 words
+9. Upon receipt of the requests by these Nodal Officers from the Central [designated] Nodal Officer for the UAPA, the similar procedure as enumerated at paragraphs 5 and 6 above shall be followed. The freezing orders shall be issued without prior notice to the designated persons involved. ...
+================================================================================
+Annex – I |  | 
+para 10 | pages [84, 85] | 360 words
+10. Regarding exemption, to be granted to the above orders in accordance with UNSCR 1452. 10.1 The above provisions shall not apply to funds and other financial assets or economic resources that have been determined by the Central [designated] nodal officer of the UAPA to be:-(a) necessary for basic ...
+================================================================================
+Annex – I |  | 
+para 11 | pages [85, 86] | 500 words
+11. Regarding procedure for unfreezing of funds, financial assets or economic resources or related services of individuals/entities inadvertently affected by the freezing mechanism upon verification that the person or entity is not a designated person: 11.1 Any individual or entity, if it has eviden ...
+================================================================================
+Annex – I |  | 
+para 12 | pages [86] | 112 words
+12. Regarding prevention of entry into or transit through India: 12.1 As regards prevention of entry into or transit through India of the designated individuals, the UAPA Nodal Officer in the Foreigners Division of MHA, shall forward the designated lists to the immigration authorities and security a ...
+================================================================================
+Annex – I |  | 
+para 13 | pages [87] | 79 words
+13. Procedure for communication of compliance of action taken under Section 51A: The Central [designated] Nodal Officer for the UAPA and the Nodal Officer in the Foreigners Division, MHA shall furnish the details of funds, financial assets or economic resources or related services of designated indi ...
+================================================================================
+Annex – I |  | 
+para 14 | pages [87] | 91 words
+14. Communication of the Order issued under Section 51A of Unlawful Activities (Prevention) Act, 1967: The order issued under Section 51A of the Unlawful Activities (Prevention) Act, 1967 by the Central [designated] Nodal Officer for the UAPA relating to funds, financial assets or economic resources ...
+================================================================================
+Annex – I |  | 
+para 15 | pages [87, 88] | 210 words
+15. All concerned are requested to ensure strict compliance of this order. (Ashutosh Agnihotri) Joint Secretary to the Government of India To, 1) Governor, Reserve Bank of India, Mumbai 2) Chairman, Securities & Exchange Board of India, Mumbai 3) Chairman, Insurance Regulatory and Development Author ...
+================================================================================
+Annex – II |  | 
+para intro | pages [89, 90] | 369 words
+F.No.P - 12011/14/2022-ES Cell-DOR Government of India Ministry of Finance Department of Revenue *** New Delhi, dated the 1st September, 2023 ORDER Subject: - Procedure for implementation of Section 12A of “The Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activitie ...
+================================================================================
+Annex – II |  | 
+para 1 | pages [90] | 282 words
+1. Appointment and communication details of Section 12A Nodal Officers: 1.1 In exercise of the powers conferred under Section 7(1) of the Act, the Central Government assigns Director, FIU -India, Department of Revenue, Ministry of Finance, as the authority to exercise powers under Section 12A of the ...
+================================================================================
+Annex – II |  | 
+para 2 | pages [91] | 228 words
+2. Communication of the lists of designated individuals/entities: 2.1 The Ministry of External Affairs will electronically communicate, without delay, the changes made in the list of designated individuals and entities (hereinafter referred to as ‘designated list’) in line with section 12A (1) to th ...
+================================================================================
+Annex – II |  | 
+para 3 | pages [91, 92] | 534 words
+3. Regarding funds, financial assets or economic resources or related services held in the form of bank accounts, stocks or insurance policies, etc. 3.1 All Financial Institutions shall – i. Verify if the particulars of the entities/individual, party to the financial transactions, match with the par ...
+================================================================================
+Annex – II |  | 
+para 4 | pages [92, 93, 94] | 502 words
+4. Regarding financial assets or economic resources of the nature of immovable properties: 4.1 The Registrars performing work of registration of immovable properties shall --i.Verify if the particulars of the entities/individual, party to the transactions, match with the particulars of the designate ...
+================================================================================
+Annex – II |  | 
+para 5 | pages [94, 95, 96, 97] | 1490 words
+5. Regarding the real -estate agents, dealers of precious metals/stones (DPMS), Registrar of Societies/ Firms/ non-profit organizations, The Ministry of Corporate Affairs and Designated Non -Financial Businesses and Professions (DNFBPs): (i) The dealers of precious metals/stones (DPMS) as notified u ...
+================================================================================
+Annex – II |  | 
+para 6 | pages [97, 98, 99] | 444 words
+6. Regarding exemption, to be granted to the above orders 6.1 The above provisions shall not apply to funds and other financial assets or economic resources that have been determined by the CNO to be: -(a) necessary for basic expenses, including payments for foodstuff, rent or mortgage, medicines an ...
+================================================================================
+Annex – II |  | 
+para 7 | pages [99, 100] | 304 words
+7. Regarding procedure for unfreezing of funds, financial assets or economic resources or related services of individuals/entities inadvertently affected by the freezing mechanism upon verification that the individual or entity is not a designated person or no longer meet the criteria for designatio ...
+================================================================================
+Annex – II |  | 
+para 8 | pages [100] | 73 words
+8. Procedure for communication of compliance of action taken under Section 12A: The CNO and the Nodal Officer in the Foreigners Division, MHA shall furnish the details of funds, financial assets or economic resources or related services of designated individuals/entities, frozen by an order, and det ...
+================================================================================
+Annex – II |  | 
+para 9 | pages [100] | 42 words
+9. Communication of the Order issued under Section 12A: The Order issued under Section 12A of the Act by the CNO relating to funds, financial assets or economic resources or related services, shall be communicated to all nodal officers in the country. ...
+================================================================================
+Annex – II |  | 
+para 10 | pages [100] | 14 words
+10. This order is issued in suppression of F.No.P-12011/14/2022-ES Cell-DOR, dated 30th January 2023. ...
+================================================================================
+Annex – II |  | 
+para 11 | pages [100, 101] | 196 words
+11. All concerned are requested to ensure strict compliance of this order. (Manoj Kumar Singh) Director (HQ) To, 1)Governor, Reserve Bank of India, Mumbai 2)Chairman, Securities & Exchange Board of India, Mumbai 3)Chairman, Insurance Regulatory and Development Authority, Hyderabad. 4)Foreign Secreta ...
