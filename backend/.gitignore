@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets: NEVER commit
+.env
+
+# Generated data (can be rebuilt)
+backend/data/vectors.npy
+backend/data/chunks.json
+backend/data/embed_cache.json
+backend/data/bm25_index.pkl
+   backend/data/debug_*.txt
+
+# PDFs (download them yourself)
+backend/data/raw/*.pdf
+
+# Editors / OS
+.vscode/
+.DS_Store
