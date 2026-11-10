@@ -1,13 +1,14 @@
-# Lesson 4: check paragraph detection.
+# Lesson 4: check paragraph detection and the final chunks.
 from rag import config
 from rag.ingest.pdf_loader import load_pdf
 from rag.ingest.cleaning import clean_pages
-from rag.ingest.chunking import split_into_paragraphs
-from rag.ingest.chunking import make_chunks
+from rag.ingest.chunking import split_into_paragraphs, make_chunks
+
 pages = load_pdf(config.RAW_DIR / "kyc_directions_2025_main.pdf")
 lines = clean_pages(pages)
 blocks = split_into_paragraphs(lines)
 
+# ---- Lesson 4A: paragraph blocks ----
 print("Clean lines:", len(lines))
 print("Paragraph blocks:", len(blocks))
 
@@ -27,6 +28,7 @@ with open(out_path, "w", encoding="utf-8") as f:
         f.write(b["text"][:300] + " ...\n")
 print("Saved to:", out_path)
 
+# ---- Lesson 4B: final chunks ----
 chunks = make_chunks(blocks, config.MAX_CHUNK_WORDS, config.CHUNK_OVERLAP_WORDS)
 
 word_counts = []

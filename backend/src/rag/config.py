@@ -33,3 +33,4 @@ RRF_K = 60
 
 # ---- Database ----
 COLLECTION_NAME = "rbi_kyc"
+CHUNKS_PATH = DATA_DIR / "chunks.json"
