@@ -40,3 +40,4 @@ EMBED_DIMS = 768
 VECTORS_PATH = DATA_DIR / "vectors.npy"
 CHUNKS_PATH = DATA_DIR / "chunks.json"
 EMBED_CACHE_PATH = DATA_DIR / "embed_cache.json"
+FRONTEND_ORIGINS = ["http://localhost:3000"]  
