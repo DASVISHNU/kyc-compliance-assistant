@@ -1,0 +1,26 @@
+{"question": "How often should KYC be updated for high-risk customers?", "expected": ["para-42"]}
+{"question": "What is a beneficial owner of a company?", "expected": ["para-5"]}
+{"question": "Can KYC be done through video?", "expected": ["para-26", "para-27", "para-5"]}
+{"question": "What is CKYCR?", "expected": ["para-5", "para-65"]}
+{"question": "Who is the Designated Director and what are their duties?", "expected": ["para-14", "para-5"]}
+{"question": "What does the Principal Officer do?", "expected": ["para-15"]}
+{"question": "Can a bank refuse banking services to financially or socially disadvantaged people because of the customer acceptance policy?", "expected": ["para-18"]}
+{"question": "How does the digital KYC process work?", "expected": ["para-24"]}
+{"question": "What are the limits on accounts opened with Aadhaar OTP based e-KYC in non-face-to-face mode?", "expected": ["para-25"]}
+{"question": "What are small accounts and what conditions apply to them?", "expected": ["para-28"]}
+{"question": "Which documents are needed to open an account for a sole proprietary firm?", "expected": ["para-30", "para-31"]}
+{"question": "What documents must a company submit to open a bank account?", "expected": ["para-33"]}
+{"question": "What documents are required to open an account of a trust?", "expected": ["para-35"]}
+{"question": "What extra checks apply to politically exposed persons?", "expected": ["para-45"]}
+{"question": "Are there simplified KYC norms for self help groups?", "expected": ["para-47"]}
+{"question": "What are the KYC rules for foreign portfolio investors?", "expected": ["para-49"]}
+{"question": "For how many years must banks keep records of transactions?", "expected": ["para-50"]}
+{"question": "What must banks report to FIU-IND?", "expected": ["para-52", "para-53", "para-54"]}
+{"question": "What are a bank's obligations under the UAPA?", "expected": ["para-56", "annex-I-para-intro", "annex-I-para-5"]}
+{"question": "What should banks do about money mule accounts?", "expected": ["para-68"]}
+{"question": "What is UCIC?", "expected": ["para-70", "para-71"]}
+{"question": "What are the rules for correspondent banking relationships?", "expected": ["para-73"]}
+{"question": "What information must accompany a wire transfer?", "expected": ["para-74"]}
+{"question": "What training should bank employees get on KYC?", "expected": ["para-79"]}
+{"question": "What is the interest rate on a savings account?", "expected": []}
+{"question": "What is the minimum CIBIL score needed for a home loan?", "expected": []}

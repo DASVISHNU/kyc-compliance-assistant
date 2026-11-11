@@ -175,7 +175,14 @@ def make_chunks(blocks, max_words, overlap):
                 label = block["annex"] + ", "
             if block["chapter"] != "":
                 label = label + block["chapter"] + ", "
-            label = label + "para " + block["para"]
+
+            if block["para"] == "intro" and block["annex"] == "":
+                label = label + "Introduction"                 # the text before paragraph 1
+            elif block["para"] == "intro":
+                label = label + "opening text"                 # the start of an annex
+            else:
+                label = label + "para " + block["para"]
+
             if len(texts) > 1:
                 label = label + " (part " + str(part) + " of " + str(len(texts)) + ")"
 

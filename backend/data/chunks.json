@@ -1,7 +1,7 @@
 [
   {
     "id": "kyc_directions_2025_main/para-intro-1",
-    "label": "para intro (part 1 of 2)",
+    "label": "Introduction (part 1 of 2)",
     "chapter": "",
     "section": "",
     "annex": "",
@@ -20,7 +20,7 @@
   },
   {
     "id": "kyc_directions_2025_main/para-intro-2",
-    "label": "para intro (part 2 of 2)",
+    "label": "Introduction (part 2 of 2)",
     "chapter": "",
     "section": "",
     "annex": "",
@@ -3143,7 +3143,7 @@
   },
   {
     "id": "kyc_directions_2025_main/annex-I-para-intro-1",
-    "label": "Annex – I, para intro",
+    "label": "Annex – I, opening text",
     "chapter": "",
     "section": "",
     "annex": "Annex – I",
@@ -3752,7 +3752,7 @@
   },
   {
     "id": "kyc_directions_2025_main/annex-II-para-intro-1",
-    "label": "Annex – II, para intro (part 1 of 2)",
+    "label": "Annex – II, opening text (part 1 of 2)",
     "chapter": "",
     "section": "",
     "annex": "Annex – II",
@@ -3772,7 +3772,7 @@
   },
   {
     "id": "kyc_directions_2025_main/annex-II-para-intro-2",
-    "label": "Annex – II, para intro (part 2 of 2)",
+    "label": "Annex – II, opening text (part 2 of 2)",
     "chapter": "",
     "section": "",
     "annex": "Annex – II",
