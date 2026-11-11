@@ -19,7 +19,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 # ---- Models ----
 EMBED_MODEL = "BAAI/bge-small-en-v1.5"
 RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-LLM_MODEL = "gemini-2.5-flash-lite"
+LLM_MODEL = "gemini-3.5-flash-lite"
 
 # ---- Chunking ----
 MAX_CHUNK_WORDS = 250
@@ -34,3 +34,9 @@ RRF_K = 60
 # ---- Database ----
 COLLECTION_NAME = "rbi_kyc"
 CHUNKS_PATH = DATA_DIR / "chunks.json"
+BM25_PATH = DATA_DIR / "bm25_index.pkl"
+EMBED_MODEL = "gemini-embedding-001"
+EMBED_DIMS = 768
+VECTORS_PATH = DATA_DIR / "vectors.npy"
+CHUNKS_PATH = DATA_DIR / "chunks.json"
+EMBED_CACHE_PATH = DATA_DIR / "embed_cache.json"

@@ -81,6 +81,7 @@ def split_into_paragraphs(lines):
         block["text"] = join_lines(block["lines"])
     return blocks
 
+
 # ---------------- Lesson 4B: split long paragraphs into chunks ----------------
 
 # A sub-item at the start of a line: "(1) ...", "(12) ...", "(iv) ..."
